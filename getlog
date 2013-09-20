@@ -1,0 +1,2 @@
+#!/bin/bash
+scp dtserver@192.168.1.96:/var/log/fail2ban.log /home/pi/its-mon/fail2ban.log
